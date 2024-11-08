@@ -33,6 +33,41 @@
 ## ![Alt text](image-1.png)
 ## Selectionnez le commits  a push ,cliquer sur push  et selctionner le repo voulu.
 
+
+
 ## Question 6
+## Un conflit Git se produit lorsqu'il y a des divergences dans le contenu de deux branches que Git ne peut pas résoudre automatiquement lors d'une fusion (merge) ou d'une rebasage (rebase). Cela arrive généralement lorsque deux personnes ou plus ont modifié la même ligne ou la même section d’un fichier de manière différente dans leurs propres branches.
+## 
+
+## Question 7
 
 ## CEST UNE MODIFICATION
+## ![Alt text](image-2.png)
+## On voit qu il y a une erreur en faisant merge sur la branche voulue .
+## Puis en cliquant sur le read me on peut choisir la modification qu'on veut garder.
+## ![Alt text](image-3.png)
+
+## Question 8
+## Un commit de merge est créé automatiquement par Git quand il fusionne deux branches. Il enregistre la fusion des modifications des deux branches et montre qu'une fusion a bien eu lieu. Ce commit permet de garder une trace de cette action dans l'historique du projet.
+
+## Question 9
+
+## Une Pull Request (PR) dans Git est utilisée pour proposer des modifications d'une branche vers une autre, généralement vers la branche principale (comme main ou master). Elle permet de soumettre, examiner et discuter les changements avant de les intégrer dans la branche cible.
+## Question 10
+## ![Alt text](image-3.png)
+## Cliquer sur coprARe et pull request
+## ![Alt text](image-2.png)
+## Un merge direct fusionne une branche dans une autre sans revue, tandis qu’une Pull Request (PR) est une demande de fusion qui permet aux autres de revoir et valider les modifications avant qu’elles soient intégrées.La PR est plus courante dans les projets collaboratifs car elle assure une meilleure qualité du code grâce à la revue, la discussion et l'intégration des retours. ## Elle permet aussi d’automatiser des tests pour vérifier que les changements n’introduisent pas de bugs.
+
+## Question 11
+## ![Alt text](image-4.png)
+## L'interface de GitKraken offre une vue graphique qui facilite la gestion des branches et des commits. Elle affiche un graph où les branches et les commits sont clairement représentés, permettant de voir rapidement l'historique des modifications et les relations entre les branches.
+
+## Question 12 
+
+
+
+
+
+
+
