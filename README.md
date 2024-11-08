@@ -1,7 +1,13 @@
 ## Tp Kraken
 
 ## Question 1 :
-## 
+## Open Repo : Ouvre un dépôt Git existant sur votre machine locale.
+
+## Clone Repo : Clone un dépôt depuis un serveur distant et crée une copie locale.
+
+## Create Repo : Initialise un nouveau dépôt Git sur votre machine locale.
+
+## Group Repos : Crée un espace de travail avec plusieurs dépôts pour faciliter la gestion et l’organisation.
 
 
 
@@ -64,6 +70,8 @@
 ## L'interface de GitKraken offre une vue graphique qui facilite la gestion des branches et des commits. Elle affiche un graph où les branches et les commits sont clairement représentés, permettant de voir rapidement l'historique des modifications et les relations entre les branches.
 
 ## Question 12 
+## ![Alt text](image-5.png)
+## Les tags dans un projet Git sont utilisés pour marquer des points spécifiques dans l'historique du projet, souvent pour indiquer des versions ou des étapes importantes (comme une release, un milestone, ou une version stable).
 
 
 
